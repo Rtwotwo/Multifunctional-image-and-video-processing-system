@@ -1,5 +1,5 @@
 # Multifunctional-image-and-video-processing-system
-Intended to allow users to experience the unique effects of images and videos after a series of transformations, encouraging more students to understand image processing technology; at the same time, this software can also be used for batch processing of a large number of images and videos.
+Intended to allow users to experience the unique effects of images and videos after a series of transformations, encouraging more students to understand image processing technology; at the same time, this software can also be used for batch processing of a large number of images and videos.warning：This software relies on the Matlab environment and requires you to install the software into the Matlab APP.
 
 # 1.Related functions
   ### 图片处理功能
@@ -24,7 +24,15 @@ Intended to allow users to experience the unique effects of images and videos af
 | 视频进度显示功能 | 在视频展示下方设置进度条，显示实时播放时刻和总时长 |
 
 # 2.Results
-软件的执行界面显示
-(assets/img_1.png)
+### 软件的执行界面显示
+![插入主界面](assets/img_0.png)
+
+### 图像相关处理实例
+|原图|膨胀变换|椒盐噪声|对比调整|边缘检测|流线型化|
+|----|----|----|----|----|----|
+|![插入原图](assets/img_orig.png)|![膨胀变换](asserts/img_1.jpg)|![椒盐噪声](asserts/img_2.jpg)|![对比调整](asserts/img_3.jpg)|![边缘检测](asserts/img_4.jpg)|![流线型化](asserts/img_5.jpg)|
+
+### 视频相关处理实例
+
 
 
