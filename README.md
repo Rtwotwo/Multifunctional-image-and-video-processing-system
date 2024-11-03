@@ -25,14 +25,17 @@ Intended to allow users to experience the unique effects of images and videos af
 
 # 2.Results
 ### 软件的执行界面显示
-![插入主界面](assets/img_0.png)
+![插入主界面](assets/img_0.jpg)
 
 ### 图像相关处理实例
 |原图|膨胀变换|椒盐噪声|对比调整|边缘检测|流线型化|
 |----|----|----|----|----|----|
-|![插入原图](assets/img_orig.png)|![膨胀变换](asserts/img_1.jpg)|![椒盐噪声](asserts/img_2.jpg)|![对比调整](asserts/img_3.jpg)|![边缘检测](asserts/img_4.jpg)|![流线型化](asserts/img_5.jpg)|
+|![插入原图](assets/img_orig.png)|![膨胀变换](asserts/img_1.png)|![椒盐噪声](asserts/img_2.png)|![对比调整](asserts/img_3.png)|![边缘检测](asserts/img_4.png)|![流线型化](asserts/img_5.png)|
 
 ### 视频相关处理实例
+|原视频|线性处理|分割处理|
+|----|----|----|
+|![原视频](assets/video_orig.mp4)|![线性处理](assets/video_0.mp4)|![分割处理](assets/video_1.mp4)|
 
 
 
