@@ -25,7 +25,7 @@ Intended to allow users to experience the unique effects of images and videos af
 
 # 2.Results
 ### 软件的执行界面显示
-![主界面](assets/img_0.png)
+![主界面](asserts/img_0.png)
 
 ### 图像相关处理实例
 |膨胀变换|椒盐噪声|对比调整|边缘检测|流线型化|
