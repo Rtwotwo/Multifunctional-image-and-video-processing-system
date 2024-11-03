@@ -35,7 +35,7 @@ Intended to allow users to experience the unique effects of images and videos af
 ### 视频相关处理实例
 |原视频|线性处理|分割处理|
 |----|----|----|
-|![原视频](assets/video_orig.mp4)|![线性处理](assets/video_0.mp4)|![分割处理](assets/video_1.mp4)|
+|![原视频](assets/video_orig.mp4)|![线性处理](assets/video_0.avi)|![分割处理](assets/video_1.avi)|
 
 
 
