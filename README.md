@@ -2,7 +2,7 @@
 Intended to allow users to experience the unique effects of images and videos after a series of transformations, encouraging more students to understand image processing technology; at the same time, this software can also be used for batch processing of a large number of images and videos.
 
 # 1.Related functions
-### 图片处理功能
+    ### 图片处理功能
 | 功能 | 描述 |
 |------|------|
 | 导入图片、保存图片功能 | 支持导入和保存多种格式的图片（.jpg、.png、.bmp、.gif） |
@@ -13,7 +13,7 @@ Intended to allow users to experience the unique effects of images and videos af
 | 边缘检测功能 | 使用 edge() 函数，支持多种边缘检测方法（Sobel、Prewitt、Roberts、log、zerocross、Canny、approxcanny） |
 | 流线形化功能 | 利用 imcontour() 函数对图片进行处理，支持不同程度的提取 |
 
-### 视频处理功能
+    ### 视频处理功能
 | 功能 | 描述 |
 |------|------|
 | 导入视频功能 | 支持导入多种格式的视频（.mp4、.m4v、.mj2、.mpg、.wmv、.avi） |
