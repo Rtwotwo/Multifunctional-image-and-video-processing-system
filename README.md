@@ -25,12 +25,12 @@ Intended to allow users to experience the unique effects of images and videos af
 
 # 2.Results
 ### 软件的执行界面显示
-![插入主界面](assets/img_0.png)
+![主界面](assets/img_0.png)
 
 ### 图像相关处理实例
-|原图|膨胀变换|椒盐噪声|对比调整|边缘检测|流线型化|
-|----|----|----|----|----|----|
-|![插入原图](assets/img_orig.jpg)|![膨胀变换](asserts/img_1.png)|![椒盐噪声](asserts/img_2.png)|![对比调整](asserts/img_3.png)|![边缘检测](asserts/img_4.png)|![流线型化](asserts/img_5.png)|
+|膨胀变换|椒盐噪声|对比调整|边缘检测|流线型化|
+|----|----|----|----|----|
+|![膨胀变换](asserts/img_1.png)|![椒盐噪声](asserts/img_2.png)|![对比调整](asserts/img_3.png)|![边缘检测](asserts/img_4.png)|![流线型化](asserts/img_5.png)|
 
 ### 视频相关处理实例
-请查看[视频处理结果](asserts/video_0.AVI)
+请查看[视频处理结果](asserts/)
