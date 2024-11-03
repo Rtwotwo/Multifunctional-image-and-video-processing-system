@@ -25,6 +25,6 @@ Intended to allow users to experience the unique effects of images and videos af
 
 # 2.Results
 软件的执行界面显示
-assets/img_1.png
+(assets/img_1.png)
 
 
