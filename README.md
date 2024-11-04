@@ -37,6 +37,7 @@ Intended to allow users to experience the unique effects of images and videos af
   <source src="asserts/video_0.AVI" type="video/avi">
   Your browser does not support the video tag.
 </video>
+
 <video width="320" height="240" controls>
   <source src="asserts/video_1.AVI" type="video/avi">
   Your browser does not support the video tag.
