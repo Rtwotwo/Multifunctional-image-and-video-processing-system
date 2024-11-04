@@ -33,4 +33,4 @@ Intended to allow users to experience the unique effects of images and videos af
 |![膨胀变换](asserts/img_1.png)|![椒盐噪声](asserts/img_2.png)|![对比调整](asserts/img_3.png)|![边缘检测](asserts/img_4.png)|![流线型化](asserts/img_5.png)|
 
 ### 视频相关处理实例
-请查看[视频处理结果](asserts/)
+请查看[视频处理结果](asserts/video_0.AVI) [视频处理结果](asserts/video_1.AVI) 
